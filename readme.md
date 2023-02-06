@@ -1,4 +1,4 @@
-# Project Name 
+# Mathematics_Games
 
 [link](https://mathematics-game-website.vercel.app/)
 
@@ -8,5 +8,3 @@
     1. HTML
     2. CSS 
     3. JavaScript
-
-### Author - Subhash Yadav
